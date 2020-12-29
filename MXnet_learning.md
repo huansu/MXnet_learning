@@ -13,4 +13,4 @@
 
 ## 目录
 ### 代码中标出--readme.md-x的部分表示在readme文档中有说明
-> * [线性回归](https://github.com/huansu/MXnet_learning/blob/main/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/readme.md) /2020.12.28
+> * [线性回归](https://github.com/huansu/MXnet_learning/blob/main/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md) /2020.12.28
